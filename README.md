@@ -28,6 +28,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 - [Performance](#performance)
 - [Intelligence](#intelligence)
 - [Architecture](#architecture)
+- [Audit](#audit)
 - [Interview](#interview)
 - [Organization](#organization)
 - [Talk](#talk)
@@ -876,6 +877,18 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Scaling Payments (3 parts) at Etsy](https://www.etsy.com/sg-en/codeascraft/scaling-etsy-payments-with-vitess-part-3--reducing-cutover-risk)
 	* [Handles Millions of Digital Transactions Safely Everyday at Paytm](https://paytm.com/blog/engineering/how-paytm-handles-millions-of-digital-transactions-safely-everyday/)
 	* [Billing and Payment Platform at Grammarly](https://www.grammarly.com/blog/engineering/billing-and-payments-platform/)
+
+## Audit
+* [Security Audit](https://owasp.org/www-project-web-security-testing-guide/)
+	* [OAuth Audit Toolbox at Indeed](http://engineering.indeedblog.com/blog/2018/04/oaudit-toolbox/)
+	* [Syscall Auditing at Scale at Slack](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8)
+	* [AVA: Audit Web Applications at Indeed](https://engineering.indeedblog.com/blog/2018/09/application-scanning/)
+* [Workflow Audit](https://en.wikipedia.org/wiki/Audit_trail)
+	* [Auditing Airflow Job Runs at Walmart](https://medium.com/walmartlabs/auditing-airflow-batch-jobs-73b45100045)
+* [Messaging Audit](https://en.wikipedia.org/wiki/Message_authentication)
+	* [Chaperone: Audit Kafka End-to-End at Uber](https://eng.uber.com/chaperone/)
+* [Data Replication Audit](https://en.wikipedia.org/wiki/Data_validation)
+	* [Black-Box Auditing: Verifying End-to-End Replication Integrity between MySQL and Redshift at Yelp](https://engineeringblog.yelp.com/2018/04/black-box-auditing.html)
 
 ## Interview
 * [Designing Large-Scale Systems](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
